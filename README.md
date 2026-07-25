@@ -5,6 +5,12 @@ The analysis identified both broad and more detailed behavioral segments, includ
 
 Although the findings do not currently support large-scale marketing or website personalization efforts, they demonstrate the feasibility of using behavioral analytics to develop audience personas from anonymous web traffic. Future work should focus on expanding the dataset and incorporating additional engagement metrics to improve the accuracy, stability, and practical value of persona-based segmentation.
 
+## Notebook Files
+There are several Python notebook (.ipynb) files with this project.
+- google_exploration_connection.ipynb - script to connect with the Google Analyics API to request Exploration data. **This file is still in progress at this time**
+- k_Means_Graduate_Only.ipynb - K-means model on just graduate degrees
+- k_Means_Undergraduate_Only.ipynb - K-means model on just undergraduate degrees
+
 ## Data Collection
 Data was obtained as a series of .csv files from Google Analytics Explorations collected on stockton.edu from March 28, 2026, through July 10, 2026. The analytics data from the CSV files were then imported, cleaned, explored, and analyzed using Python.
 Dimensions used:
