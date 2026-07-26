@@ -8,7 +8,7 @@ Although the findings do not currently support large-scale marketing or website 
 ## Notebook Files
 There are several Python notebook (.ipynb) files with this project.
 - Practicum_Final_Run.ipynb - K-means model used in the Final Report
-- data_exploration.ipynb - exploratin and cleanup of the Google Exploration data
+- data_exploration.ipynb - data exploration and cleanup of the Google Exploration
 - google_exploration_connection.ipynb - script to connect with the Google Analyics API to request Exploration data. **This file is still in progress at this time**
 - k_Means_Graduate_Only.ipynb - K-means model on just graduate degrees
 - k_Means_Undergraduate_Only.ipynb - K-means model on just undergraduate degrees
