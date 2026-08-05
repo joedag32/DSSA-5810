@@ -13,10 +13,10 @@ This project was developed in **Python** and is compatible with modern Python 3.
 ## Notebook Files
 There are several Python notebook (.ipynb) files with this project.
 - Practicum_Final_Run.ipynb - K-means model used in the Final Report
-- data_exploration.ipynb - data exploration and cleanup of the Google Exploration
-- google_exploration_connection.ipynb - script to connect with the Google Analyics API to request Exploration data. **This file is still in progress at this time**
 - k_Means_Graduate_Only.ipynb - K-means model on just graduate degrees
 - k_Means_Undergraduate_Only.ipynb - K-means model on just undergraduate degrees
+- data_exploration.ipynb - data exploration and cleanup of the Google Exploration
+- google_exploration_connection.ipynb - script to connect with the Google Analyics API to request Exploration data. **This file is still in progress at this time**
 
 ## Data Collection
 Data was obtained as a series of .csv files from Google Analytics Explorations collected on stockton.edu from March 28, 2026, through July 10, 2026. The analytics data from the CSV files were then imported, cleaned, explored, and analyzed using Python.
