@@ -10,6 +10,15 @@ This project was developed in **Python** and is compatible with modern Python 3.
 
 [Google Colab](https://colab.research.google.com/) provides a cloud-based Jupyter Notebook environment that allows users to run Python code directly in a web browser without requiring local installation or configuration. The [Anaconda Distribution](https://www.anaconda.com/platform/core) provides a preconfigured Python environment along with package and environment management tools that simplify dependency installation, project setup, and reproducibility across systems.
 
+## Requirements
+The following libraries are used in the the notebook files:
+- pandas
+- numpy
+- scipy
+- matplotlib
+- seaborn
+- scikit-learn
+
 ## Notebook Files
 There are several Python notebook (.ipynb) files with this project in the /notebooks directory of this project.
 - **Practicum_Final_Run.ipynb** - K-means model used in the Final Report
