@@ -5,6 +5,11 @@ The analysis identified both broad and more detailed behavioral segments, includ
 
 Although the findings do not currently support large-scale marketing or website personalization efforts, they demonstrate the feasibility of using behavioral analytics to develop audience personas from anonymous web traffic. Future work should focus on expanding the dataset and incorporating additional engagement metrics to improve the accuracy, stability, and practical value of persona-based segmentation.
 
+## Environment
+This project was developed in **Python** and is compatible with modern Python 3.x environments.
+
+[Google Colab](https://colab.research.google.com/) provides a cloud-based Jupyter Notebook environment that allows users to run Python code directly in a web browser without requiring local installation or configuration. The [Anaconda Distribution](https://www.anaconda.com/platform/core) provides a preconfigured Python environment along with package and environment management tools that simplify dependency installation, project setup, and reproducibility across systems.
+
 ## Notebook Files
 There are several Python notebook (.ipynb) files with this project.
 - Practicum_Final_Run.ipynb - K-means model used in the Final Report
