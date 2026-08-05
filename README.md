@@ -34,3 +34,6 @@ Metrics used:
 | page view variables | Integer | Counts of visits to individual program webpages during a session |
 | unique_views | Integer | Number of distinct pages viewed in a session |
 | just_url | Object | Base landing page extracted from proxy_session_id |
+
+### Regulations to using the data
+You are free to use my data in anyway you see fit, have fun.
